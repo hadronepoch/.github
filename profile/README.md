@@ -1,10 +1,10 @@
 ## Hey, this is us 👋
 
-![An illustration showing a variety of differently our product.](https://raw.githubusercontent.com/hadronepoch/.github/main/profile/PENUP_20230415_1557142.PNG)
+![An illustration showing a variety of differently our product.](https://raw.githubusercontent.com/hadronepoch/.github/main/profile/PENUP_20230415_1557142-min.PNG)
 We are an open-source organization and enjoy building out open-source software.
 
 ### 🎯 Our goals
-![video streaming app](https://raw.githubusercontent.com/hadronepoch/.github/main/profile/PENUP_20230415_1603162.PNG)
+![video streaming app](https://raw.githubusercontent.com/hadronepoch/.github/main/profile/PENUP_20230415_1603162-min.PNG)
 
 Our Collective focuses on video application platforms such as video conference apps, video streaming, and video-on-demand app. We are building out new applications as well as updating existing ones.
 
