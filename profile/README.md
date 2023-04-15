@@ -13,7 +13,7 @@ Our Collective focuses on video application platforms such as video conference a
 
 We'd love your help in improving, correcting, adding to the specification. See Contributing File in repositories for more information.
  
-### 💗 Sponsering us
+### 💗 Sponsoring us
 Thank you in advance for considering sponsoring us. Your donations will support the development of existing libraries and building out new ones.
 You can sponsor us by clicking **[here](https://github.com/sponsors/hadronepoch)** or see the pages below for more options like crypto, patreon and etc.
 * **[Crypto](https://hadronepoch.org/support)**
